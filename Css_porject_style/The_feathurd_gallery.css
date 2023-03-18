@@ -1,0 +1,79 @@
+
+
+/* The_feathurd_gallery */
+
+
+
+.p_title{
+          margin-top: 30px;
+          width: 100%;
+          font-size: 36px;
+          text-align: center;
+      }
+      
+      .Featured_Gallery{
+          display: inline-flex;
+          flex-direction: row;
+          width: 1222px;
+          height: 981px;
+          justify-items: center;
+          text-align: center;
+          flex-wrap: wrap;
+      }
+      
+      .Featured_Gallery_1{
+          display: inline-flex;
+      }
+      
+      .Featured_Gallery .Featured_Gallery_1 .fristImge {
+          background-image: url(../images/gallery1.jpg);
+          font-family: 'Poppins';
+          background-size: cover;
+          width: 585px;
+          height: 601px;
+          padding: 10px;
+          position: relative;
+      
+      } 
+      
+      .fristImge .image_tilile{
+          position: absolute;
+          top: 70%;
+          left:20;
+          font-weight: bold;
+          font-size: 24px;
+          text-align: left;
+          padding: 30px;
+          color: #FFFFFF;
+      
+      }
+      
+      .fristImge .image_deteial{
+          width: 360px;
+          height: 60px;
+          position: absolute;
+          top: 78%;
+          font-size: 13px;
+          text-align: left;
+          font-weight:50;
+          padding: 30px;
+          color: #eeeeee;
+          letter-spacing: 1.6px;
+      word-spacing: 1.7px;
+          
+      }
+      
+      .Featured_Gallery_1_2{
+          height: 601px;
+          width: 630px;
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: row;
+      
+      }
+      
+      .Featured_Gallery img .the_same_size{
+       width: 311px;
+      height: 300px;
+      }
+      

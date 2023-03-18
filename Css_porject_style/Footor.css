@@ -1,0 +1,167 @@
+ /* Footor */
+
+
+ .footor{
+          width: 1601.92px;
+          height: 481.05px;
+          background-color: rgb(255, 255, 255);
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: space-evenly;
+          align-items: center;
+          position: relative;
+       }
+       .footor .logo{
+      position: absolute;
+      right: 0px;
+      bottom: 514px;
+      left: 631px;
+      
+       }
+      
+       .footor .footor_divs {
+          margin-top: 130px;
+          width: 1601.92px; 
+          height: clac(593.05px -283px);
+          display: flex;
+          
+       }
+       .footor .footor_divs div{
+      
+         margin-right: 60px;
+       }
+       .footor_divs .ContactUs{
+          margin-left: 145px;
+          
+       }
+      
+       .footor_divs ul{
+          list-style: none;
+          color: #777777;
+          
+       }
+       .footor_divs ul li{
+          margin: 20px;
+       }
+      
+      
+       .footor_divs ul dt{
+          color:  #101C21 ;
+          font-weight: bold;
+       }
+      
+       .Address{
+          display: flex;
+          flex-direction: column;
+          margin-left: 50px;
+      
+       }
+      
+      
+      .Address .InternetSystems{
+       width: 248px;
+      height: 42px;
+      font-size: 13px;
+      color: #777777;
+      margin-top: 30px;
+      margin-bottom: 10px;
+      }
+      
+      .Address .FollowUsIcon{
+          width: 100%;
+          height: 42px;
+          display: flex;
+          flex-direction: row;
+          margin-top: 5px;
+          justify-items: start;
+        
+      }
+      .Address .FollowUsIcon div{
+          margin-right: 16px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+      }
+      
+      
+      
+      .FollowUsIcon .facebook{
+      width: 40px;
+      height: 40px;
+      background: linear-gradient(270deg,
+       #6362D7 -29.32%,
+        #FF8FE2 91.67%);
+        border-radius: 40px;
+      }
+      
+      
+      
+      
+      .FollowUsIcon .scipe{
+          width: 40px;
+          height: 40px;
+          background: linear-gradient(270deg,
+           #00B56C 28.29%, #1DBE75 39.63%, #68D58C 64.1%, #9EE69D 80.85%);
+            border-radius: 40px;
+          }
+      
+          .FollowUsIcon .linkedin{
+              width: 40px;
+              height: 40px;
+              background: linear-gradient(270deg,
+               #FF9AB6 0%, #F03295 147.62%, #F03295 149.19%);
+                border-radius: 40px;
+              }
+      
+              .FollowUsIcon .photo{
+                  width: 40px;
+                  height: 40px;
+                  background: linear-gradient(270deg, 
+                  #F09376 -13.31%, #F0DB79 83.93%);
+                    border-radius: 40px;
+                  }
+      
+      .footor  .final_div{
+          width: 1600.65px;
+          height: 239.94px;
+          background-image: url(../images/backgrond_footor.svg);
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: relative;
+          
+            
+      }
+      
+      .final_div p{
+      left: 600px;
+      top: 80px ;
+      position: absolute;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 28px; 
+      text-align: center;
+      text-decoration-line: underline;
+      color: #999999;
+      text-align: center; }
+      
+      
+      .final_div .image_left{
+      margin-left: 250px;
+      }
+      
+      .final_div .image_rigth{
+          margin-left: 450px;
+          }
+      
+      .ContactUs .email{
+      list-style-image: url(../images/contact.png);
+      
+          margin-left: -3px;
+          padding-left: 22px;
+      
+          
+      }    
+      
+      

@@ -1,0 +1,212 @@
+
+
+/* Speciaitiy_section */
+
+.speciaitiy{
+          width: 1110px;
+           height: 655px;   
+           display: inline-flex;
+              flex-flow: row wrap;
+              justify-content: space-evenly;
+              align-items: center;
+              align-content: center;
+          margin-top: 20px;
+      
+         
+        
+      }
+      
+      .speciaitiy_title{
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 36px;
+      line-height: 46px;
+      text-align: center;
+      color: #222222;
+      }
+      
+      .speciaitiy span{
+          font-weight: bold;
+      }
+      
+      .info_scetion{
+          display: inline-flex;
+          flex-direction: row;
+          justify-items:  center;
+          justify-content: space-evenly;
+      
+      
+      }
+      
+      .info_scetion_1,
+       .info_scetion_2 ,
+       .info_scetion_3{
+          width: 350px;
+          height: 440px;
+          background: #FFFFFF;
+          box-shadow: 0px 10px 15px rgba(153, 153, 153, 0.2);
+          border-radius: 8px;
+          margin-right: 10px;
+      
+      }
+      
+      .info_title{
+          width: 100%;
+          height: 24px;
+          font-family: 'Poppins';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 24px;
+          line-height: 24px;    
+          text-align: center;
+          color: #222222;
+      }
+      
+      
+      
+      .lorem_00{
+      width: 100%;
+      height: 20%;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 27px;
+      margin-top: 20px;
+      text-align: center;
+      color: #555555;
+      letter-spacing: 1.6px;
+      word-spacing: 1.7px;
+      }
+      
+      .speciaitiy_bottom{
+      display: inline-flex;
+      margin-top: 30px;
+      justify-content: center;
+      
+      
+      }
+      .speciaitiy_bottom img{
+          margin-top: 15px;
+       width: 14.71px;
+      height: 14.71px;
+      }
+      
+      .speciaitiy_bottom .back{
+       width: 50px;
+      height: 50px;
+      background: #FFFFFF;
+      justify-content: center;
+      box-shadow: 0px 10px 15px rgba(153, 153, 153, 0.2);
+      border: 1px solid white;
+      border-radius: 50px;
+      margin-right: 25px;
+      }
+      
+      .next{
+          width: 50px;
+          height: 50px;
+          background: #FFFFFF;
+          justify-content: center;
+          box-shadow: 0px 10px 15px rgba(153, 153, 153, 0.2);
+          border: 1px solid white;
+          border-radius: 50px;
+      }
+      
+      /* Owning product */
+      
+       .Owning_Products{
+          width: 100%;
+          display: inline-flex;
+          flex-direction: column;
+          align-items: center;
+          
+      }
+      
+      
+       .Owning_title{
+          font-family: 'Poppins';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 36px;
+          line-height: 46px;
+          text-align: center;
+          color: #222222;
+          }
+          
+           .Owning_Products span{
+              font-weight: bold;
+          }
+      
+          .lorem_text__1{
+              width: 520px;
+              height: 48px;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 27px;
+      text-align: center;
+      color: #555555;
+      margin-bottom: 50px;
+      letter-spacing: 1.3px;
+      
+          }
+      
+          .theMainContent{
+              width: 1020px;
+               height: 802px;
+              display: inline-flex;
+              flex-flow: row wrap;
+              justify-content: space-evenly;
+              align-items: center;
+              align-content: center;
+          
+          }
+      
+          .theMainContent div{
+              width: 320px;
+             height: 280px;
+              display: inline-flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          background: #FFFFFF;
+           box-shadow: 0px 10px 15px rgba(153, 153, 153, 0.2);
+           border-radius: 8px;
+           align-items: center;
+           align-content: center;
+           margin-bottom: 40px;
+           
+          }
+      
+          .theMainContent .theMainContent_lorem_{
+       width: 245px;
+      height: 48px;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 27px;
+      text-align: center;
+      color: #999999;
+      background: #FFFFFF;
+      
+          }
+      
+          .theMainContent .learnMore{
+              width: 89px;
+      height: 24px;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 24px;
+      text-align: center;
+      color: #49BE55;
+      background: transparent;
+          }
+           
+          .theMainContent .theMainContent_deffrent{
+              margin-top: -70px;
+          }

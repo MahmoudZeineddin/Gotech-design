@@ -1,0 +1,65 @@
+
+/*The_Process_section */
+.Process_section{
+
+          width: 1112px;
+          height: 466px;
+          background-image: url(../images/office.png);
+          margin-top: 40px;
+          background-repeat: no-repeat;
+          background-position: right top ;
+          display: inline-flex;
+          flex-direction: column;
+         
+      }
+      
+      .Process_title{
+          font-family: 'Poppins';
+      font-style: normal;
+      color: #222222;
+      font-size: 36px;
+      line-height: 46px;
+       width: 291px;
+      height: 92px;
+      }
+      .Process_title span{
+          font-weight: bold;
+      }
+      
+      .lorem_text__1{
+          width: 486px;
+          height: 75px;
+          font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 27px;
+      color: #555555;
+      }
+      
+      .lorem_text__2{
+       width: 481px;
+      height: 48px;
+      margin-top: 20px; 
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 27px;
+      color: #555555;
+      }
+      
+      .Process_button{
+          width: 131px;
+          height: 42px;
+          margin-top: 20px;
+          color: #FFFFFF ;
+          border-width: 0px ;
+          border-style:  solid ;
+          margin-left: 20px;
+          background: linear-gradient(270deg, #6362D7 -47.92%, #FF8FE2 113.6%);
+          border-radius: 6px;
+      
+      }
+      
+      
